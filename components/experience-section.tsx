@@ -222,7 +222,7 @@ export function ExperienceSection() {
         </div>
 
         {/* Certifications Section */}
-        <div
+        {/* <div
           className={cn("text-center mb-16", isVisible && "animate-fade-in-up")}
           style={{ animationDelay: "600ms" }}
         >
@@ -234,9 +234,9 @@ export function ExperienceSection() {
             Professional certifications that validate my expertise in various
             technologies and platforms.
           </p>
-        </div>
+        </div> */}
 
-        <div className="grid md:grid-cols-2 gap-6">
+        {/* <div className="grid md:grid-cols-2 gap-6">
           {certifications.map((cert, index) => (
             <Card
               key={index}
@@ -272,7 +272,7 @@ export function ExperienceSection() {
               </CardContent>
             </Card>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );
