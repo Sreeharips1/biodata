@@ -50,8 +50,7 @@ export function AboutSection() {
               </p>
 
               <p>
-                Currently, I'm a Full Stack Developer specializing in the MERN
-                stack and modern web technologies. I contribute to the creation
+                contribute to the creation
                 and maintenance of scalable web applications, ensuring they meet
                 web accessibility standards and best practices to deliver an
                 inclusive user experience.
@@ -59,13 +58,6 @@ export function AboutSection() {
               <p>
                 in final year ,i got internship offer for 6 month from webgeon
                 solutions,after that i joined as associate web developer{" "}
-              </p>
-
-              <p>
-                I've had the opportunity to develop software across a variety of
-                settings Additionally, I'm expanding my expertise in AI/ML
-                technologies and cloud to stay at the forefront of technological
-                innovation.
               </p>
 
               <p>
@@ -81,7 +73,7 @@ export function AboutSection() {
                 Currently Learning
               </h3>
               <div className="flex flex-wrap gap-2">
-                <Badge variant="secondary">oracle cloud</Badge>
+                <Badge variant="secondary">Mern-dev</Badge>
                 <Badge variant="secondary">DevOps</Badge>
                 <Badge variant="secondary">Java Core</Badge>
                 {/* <Badge variant="secondary">Kubernetes</Badge>
@@ -106,7 +98,7 @@ export function AboutSection() {
 
               <Card className="text-center p-6 hover:shadow-lg transition-shadow">
                 <CardContent className="p-0">
-                  <div className="text-3xl font-bold text-accent mb-2">10+</div>
+                  <div className="text-3xl font-bold text-accent mb-2">6+</div>
                   <div className="text-sm text-muted-foreground">
                     Projects Completed
                   </div>
