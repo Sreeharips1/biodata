@@ -42,12 +42,12 @@ export function Footer() {
     {
       icon: <Github className="h-5 w-5" />,
       name: "GitHub",
-      url: "https://github.com/yourusername",
+      url: "https://github.com/Sreeharips1",
     },
     {
       icon: <Linkedin className="h-5 w-5" />,
       name: "LinkedIn",
-      url: "https://linkedin.com/in/yourusername",
+      url: "https://linkedin.com/in/sreehari-p-ba7b62244/",
     },
     {
       icon: <Twitter className="h-5 w-5" />,
