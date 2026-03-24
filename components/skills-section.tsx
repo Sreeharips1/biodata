@@ -13,8 +13,7 @@ const skillCategories = [
     icon: <Code2 className="h-6 w-6" />,
     skills: [
       { name: "React.js", level: 60, icon: "⚛️" },
-      { name: "Next.js", level: 65, icon: "▲" },
-      { name: "TypeScript", level: 50, icon: "📘" },
+      { name: "Next.js", level: 35, icon: "▲" },
       { name: "Tailwind CSS", level: 90, icon: "🎨" },
       { name: "HTML5/CSS3", level: 95, icon: "🌐" },
     ],
@@ -23,9 +22,9 @@ const skillCategories = [
     title: "Backend Development",
     icon: <Server className="h-6 w-6" />,
     skills: [
-      { name: "Node.js", level: 55, icon: "🟢" },
-      { name: "Express.js", level: 50, icon: "🚀" },
-      { name: "Nest.js", level: 75, icon: "🔴" },
+      { name: "Node.js", level: 95, icon: "🟢" },
+      { name: "Express.js", level: 90, icon: "🚀" },
+      { name: "Nest.js", level: 15, icon: "🔴" },
       { name: "REST APIs", level: 50, icon: "🔗" },
       { name: "SQL", level: 50, icon: "📊" },
     ],
@@ -40,17 +39,7 @@ const skillCategories = [
       // { name: "Firebase", level: 80, icon: "🔥" },
     ],
   },
-  {
-    title: "AI/ML & Data Science",
-    icon: <Brain className="h-6 w-6" />,
-    skills: [
-      { name: "Python", level: 20, icon: "🐍" },
-      { name: "Jupyter Notebook", level: 25, icon: "📓" },
-      { name: "PyCharm", level: 75, icon: "🧠" },
-      // { name: "TensorFlow", level: 65, icon: "🤖" },
-      // { name: "Pandas", level: 70, icon: "🐼" },
-    ],
-  },
+  ?
   {
     title: "DevOps & Cloud",
     icon: <Cloud className="h-6 w-6" />,
